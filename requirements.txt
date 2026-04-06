@@ -1,6 +1,7 @@
 streamlit
+tensorflow-cpu
 numpy
-tensorflow
-PIL
+pillow
 pandas
 plotly
+
